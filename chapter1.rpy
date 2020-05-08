@@ -10,7 +10,7 @@ translate Korean nameentryx_dc71aba9:
 translate Korean nameentryx_058ab5bf:
 
     # s "User profile not found."
-    s "프로필이 감지되지 않았습니다."
+    s "사용자 프로필 발견되지 않음."
 
 # game/chapter1.rpy:108
 translate Korean colormenu1_e933acee:
@@ -46,13 +46,13 @@ translate Korean detected_bc6e30f8:
 translate Korean detected_84b78b40:
 
     # c "(Does this look right?)" nointeract
-    c "(이게 맞으신가요?)" nointeract
+    c "(이대로 괜찮습니까?)" nointeract
 
 # game/chapter1.rpy:378
 translate Korean detected_263f7f4c:
 
     # s "User profile confirmed."
-    s "프로필이 확인되었습니다."
+    s "사용자 프로필이 확인되었습니다."
 
 # game/chapter1.rpy:382
 translate Korean detected_bd29307b:
@@ -64,37 +64,37 @@ translate Korean detected_bd29307b:
 translate Korean detected_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    "조작\n[[좌클릭]과 [[Enter]로 텍스트를 건너뛰고 선택지를 고를 수 있습니다.\n[[Space]로 텍스트만 건너뛸 수 있습니다. 이 키를 활용해 선택 실수를 줄이세요."
+    "조작\n[[좌클릭]과 [[Enter]로 텍스트를 진행하고 선택지를 고를 수 있습니다.\n[[Space]로 텍스트만 진행할 수 있습니다. 선택지를 잘못 고르는 것을 피할 때 유용합니다."
 
 # game/chapter1.rpy:384
 translate Korean detected_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    "[[ESC] 나 [[우클릭] 으로 메뉴를 열 수 있습니다.\n[[F] 키로 전체 화면을 활성화/비활성화할 수 있습니다..\n[[마우스 휠], 또는 [[Page Up] 과 [[Page Down] 로 이전의 메세지를 볼 수 있습니다."
+    "[[ESC] 나 [[우클릭] 으로 메뉴를 열 수 있습니다.\n[[F] 키로 전체 화면을 활성화/비활성화할 수 있습니다..\n[[마우스 휠], 또는 [[Page Up] 과 [[Page Down] 로 이전 메세지를 되감아볼 수 있습니다."
 
 # game/chapter1.rpy:385
 translate Korean detected_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "[[Ctrl] 을 꾹 누르거나 [[Tab] 키를 눌러 이미 봤던 메세지를 건너뛸 수 있습니다.\n[[S] 키를 눌러 스크린샷을 찍을 수 있습니다.\n[[마우스 휠 클릭] 또는 [[H] 키로 메세지 창을 숨길 수 있습니다.\n이 조작키 안내는 메인 메뉴에서도 확인하실 수 있습니다."
+    "[[Ctrl] 을 꾹 누르거나 [[Tab] 키를 눌러 이미 봤던 메세지를 건너뛸 수 있습니다.\n[[S] 키를 눌러 스크린샷을 찍을 수 있습니다.\n[[마우스 휠 클릭] 또는 [[H] 키로 텍스트 창을 숨길 수 있습니다.\n이 조작키 안내는 메인 메뉴에서도 확인하실 수 있습니다."
 
 # game/chapter1.rpy:386
 translate Korean detected_4f5f91c6:
 
     # s "That would be all.{cps=2}..{/cps}{w=2.0}{nw}"
-    s "알아두셔야 할 건 이게 전부입니다.{cps=2}..{/cps}{w=2.0}{nw}"
+    s "이상입니다.{cps=2}..{/cps}{w=2.0}{nw}"
 
 # game/chapter1.rpy:393
 translate Korean colorend_84b78b40:
 
     # c "(Does this look right?)" nointeract
-    c "(이게 맞으신가요?)" nointeract
+    c "(이대로 괜찮습니까?)" nointeract
 
 # game/chapter1.rpy:401
 translate Korean colorend_263f7f4c:
 
     # s "User profile confirmed."
-    s "프로필이 확인되었습니다."
+    s "사용자 프로필이 확인되었습니다."
 
 # game/chapter1.rpy:405
 translate Korean colorend_bd29307b:
@@ -106,25 +106,25 @@ translate Korean colorend_bd29307b:
 translate Korean colorend_b55f0cf7:
 
     # "Controls\nUse [[Left Click] or [[Enter] to advance text and select menu options.\nPress [[Space] to advance text only. This is useful to avoid making a selection by mistake."
-    "조작\n[[좌클릭]과 [[Enter]로 텍스트를 건너뛰고 선택지를 고를 수 있습니다.\n[[Space]로 텍스트만 건너뛸 수 있습니다. 이 키를 활용해 선택 실수를 줄이세요."
+    "조작\n[[좌클릭]과 [[Enter]로 텍스트를 진행하고 선택지를 고를 수 있습니다.\n[[Space]로 텍스트만 진행할 수 있습니다. 선택지를 잘못 고르는 것을 피할 때 유용합니다."
 
 # game/chapter1.rpy:407
 translate Korean colorend_979415d0:
 
     # "[[ESC] or [[Right Click] brings up the menu.\n[[F] toggles fullscreen.\nUse the [[Mousewheel], or [[Page Up] and [[Page Down] to review past messages and rewind."
-    "[[ESC] 나 [[우클릭] 으로 메뉴를 열 수 있습니다.\n[[F] 키로 전체 화면을 활성화/비활성화할 수 있습니다.\n[[마우스 휠], 또는 [[Page Up] 과 [[Page Down] 로 메세지를 돌려볼 수 있습니다."
+    "[[ESC] 나 [[우클릭] 으로 메뉴를 열 수 있습니다.\n[[F] 키로 전체 화면을 활성화/비활성화할 수 있습니다..\n[[마우스 휠], 또는 [[Page Up] 과 [[Page Down] 로 이전 메세지를 되감아볼 수 있습니다."
 
 # game/chapter1.rpy:408
 translate Korean colorend_25c39bd4:
 
     # "Hold [[Ctrl] or press [[Tab] to skip seen messages.\n[[S] takes a screenshot.\n[[Middle Click] or [[H] hides the text window.\nIf you wish to view this information again, you can do so from the main menu."
-    "[[Ctrl] 을 꾹 누르거나 [[Tab] 키를 눌러 이미 봤던 메세지를 건너뛸 수 있습니다.\n[[S] 키를 눌러 스크린샷을 찍을 수 있습니다.\n[[마우스 휠 클릭] 또는 [[H] 키로 메세지 창을 숨길 수 있습니다.\n이 조작키 안내는 메인 메뉴에서도 확인하실 수 있습니다."
+    "[[Ctrl] 을 꾹 누르거나 [[Tab] 키를 눌러 이미 봤던 메세지를 건너뛸 수 있습니다.\n[[S] 키를 눌러 스크린샷을 찍을 수 있습니다.\n[[마우스 휠 클릭] 또는 [[H] 키로 텍스트 창을 숨길 수 있습니다.\n이 조작키 안내는 메인 메뉴에서도 확인하실 수 있습니다."
 
 # game/chapter1.rpy:409
 translate Korean colorend_7c214f52:
 
     # s "That would be all."
-    s "알아두셔야 할 건 이게 전부입니다."
+    s "이상입니다."
 
 # game/chapter1.rpy:419
 translate Korean begingame_76b2fe88:
@@ -142,25 +142,25 @@ translate Korean begingame_0420e91d:
 translate Korean begingame_02e25085:
 
     # n "Only recently has humanity discovered a portal that leads into a different world, populated with a race of intelligent, talking dragons. I was one of the few to travel to this world..."
-    n "인류는 지성을 지닌 용들의 종족이 사는 이세계로 통하는 포탈을 발견했다. 나는 그 세계를 여행한 몇 안 되는 이들 중 하나였다..."
+    n "최근 인류는 지성을 지니고 말을 할 수 있는, 용 종족이 사는 다른 세계로 통하는 포탈을 발견했다. 나는 그 세계를 여행한 몇 안 되는 이들 중 하나였다..."
 
 # game/chapter1.rpy:423
 translate Korean begingame_ef5e9be2:
 
     # n "...but, maybe, I should start at the beginning..."
-    n "...하지만, 아마도, 처음부터 되짚어보면..."
+    n "...하지만 아무래도, 가장 처음부터 이야기해야할 것 같다..."
 
 # game/chapter1.rpy:424
 translate Korean begingame_c9f110ae:
 
     # n "It all began when we discovered a strange device in the middle of nowhere during one of our expeditions... a portal."
-    n "이 모든 일들은 탐험 중 어느 곳에서 수상한 장치... 그러니까 포탈을 발견했을 때부터 시작됐던 것 같다."
+    n "이 모든 일들은 탐험 중 어느 곳에서 수상한 장치... 그러니까 포탈을 발견했을 때부터 시작되었다."
 
 # game/chapter1.rpy:431
 translate Korean begingame_f32d817d:
 
     # n "I had heard about similar technology before, though that had been more on an experimental level. From what I knew, other portals had been created in the past and were under consideration for mass application. As for this one in particular, though, we did not know who had built it, nor when - or why we found it in the wilderness where we did. What was more exciting to us was the fact that it was... functional."
-    n "전에 이런 기술에 대해서 들어본 적이 있긴 하지만, 그 기술은 실험적인 수준에 그쳤다. 적어도 내가 알고 있던 바로는, 과거에 이런 포탈들이 몇 개 만들어져 이제 막 상용화를 시험하고 있었을 터였다. 그러나, 특히 이 포탈에 대해선, 누가 이걸 지었는지, 언제 지었는지, 또 왜 우리가 탐사한 평야에서 발견되었는 지 알 수 없었다. 우리가 그것에 대해 더 흥미를 가졌던 부분은... 그 것이 실제로 작동한다는 것이었다."
+    n "전에 이런 기술에 대해서 들어본 적이 있긴 하지만, 그 기술은 실험적인 수준에 그쳤다. 적어도 내가 알고 있던 바로는, 과거에 이런 포탈들이 몇 개 만들어져 이제 막 상용화를 시험하고 있었을 터였다. 그러나, 특히 이 포탈에 대해선 누가 이걸 지었는지, 언제 지었는지, 또 왜 우리가 탐사한 평야에서 발견되었는 지 알 수 없었다. 우리가 그것에 대해 더 흥미를 가졌던 부분은... 그것이 실제로 작동한다는 것이었다."
 
 # game/chapter1.rpy:433
 translate Korean begingame_337d015e:
@@ -168,19 +168,19 @@ translate Korean begingame_337d015e:
     # nvl clear
     # n "After our first tests, we found there was someone else on the other side who was in possession of a similar portal, and our attempts at communication through letters were successful. But in the end, the machine's extraordinary demand for power meant we needed to act quickly as we wouldn’t be able to keep the portal open much longer. "
     nvl clear
-    n "첫 테스트가 끝나고, 우리는 포탈 너머에 누군가 있다는 걸 알게되었고, 편지를 통해 의사소통을 했다. 하지만, 포탈이 소모하는 전력은 엄청났기에, 우리는 포탈을 오랫동안 열어둘 수 없었고, 신속하게 행동해야만 했다."
+    n "첫 테스트가 끝나고, 우리는 포탈 너머에 누군가 있다는 걸 알게 되었고, 편지를 통해 의사소통을 했다. 하지만, 포탈이 소모하는 전력은 엄청났기에, 우리는 포탈을 오랫동안 열어둘 수 없었고, 신속하게 행동해야만 했다."
 
 # game/chapter1.rpy:436
 translate Korean begingame_00947764:
 
     # n "When we made this known to the other side, we received a very unexpected reply: A letter of invitation. After some deliberation, it was decided to accept their hospitality and send a person to the other side."
-    n "이 사실을 포탈 너머의 누군가에게 알렸을 때, 우리는 뜻밖에도 초대장을 받았다. 어느 정도 심사숙고한 뒤에야, 우리는 그들의 호의를 수락하여 포탈 너머로 사람을 보내기로 했다."
+    n "이 사실을 포탈 너머의 누군가에게 알렸을 때, 우리는 뜻밖의 답장을 받았다. 바로 초대장이었다. 어느 정도 심사숙고한 뒤에야, 우리는 그들의 환대를 받아들여 포탈 너머로 사람을 보내기로 했다."
 
 # game/chapter1.rpy:437
 translate Korean begingame_3dadd8d0:
 
     # n "There was an individual who took the job almost immediately."
-    n "그와 동시에, 자기가 맡겠다며 자청한 사람이 있었다."
+    n "그와 거의 동시에, 자기가 그 일을 맡겠다며 자청한 사람이 있었다."
 
 # game/chapter1.rpy:443
 translate Korean begingame_76b2fe88_1:
@@ -198,13 +198,13 @@ translate Korean begingame_f40eb8ae:
 translate Korean begingame_f4966cae:
 
     # n "I knew him. Or rather, had known him. We attended the same school back then, and even had a few classes together. We never really were very close friends, but we talked to each other occasionally and hung around with the same crowd sometimes. However, we still went our separate ways in the end."
-    n "난 그를 알았다. 아니, 오히려 그를 오래 전부터 알고 있었다. 과거에 같은 학교를 다니기도 했었고, 심지어 몇 번은 같은 반이었기도 했었다. 우린 그렇게까지 친한 사이는 아니었지만, 가끔씩은 서로 이야기를 나누거나 같은 무리에서 어울리곤 했었다. 하지만, 우리는 결국 각자의 길을 가야만 했었다."
+    n "난 그를 알았다. 더 정확히 말하자면, 오래 전부터 알고 있었다. 과거에 같은 학교를 다니기도 했었고, 심지어 몇 번은 같은 수업도 들었다. 우린 그렇게까지 친한 사이는 아니었지만, 가끔씩은 서로 이야기를 나누거나 같은 무리에서 어울리곤 했다. 하지만, 우리는 결국 각자의 길을 갔다."
 
 # game/chapter1.rpy:448
 translate Korean begingame_d966c5be:
 
     # n "I wasn't sure what to think about the whole thing, but he had to have known what he was doing. He certainly was brave."
-    n "난 그 모든 일들을 어떻게 생각해야 할 지 확신이 서지 않았지만, 그는 그가 무엇을 하고 있는 것인지 알았어야 했다. 그는 확실히 용감했다."
+    n "난 그 모든 일들을 어떻게 생각해야 할 지 확신이 서지 않았지만, 그는 자신이 무슨 일을 하고 있는지 인지하고 있어야했다. 그는 확실히 용감했다."
 
 # game/chapter1.rpy:449
 translate Korean begingame_0be71cd9:
@@ -216,7 +216,7 @@ translate Korean begingame_0be71cd9:
 translate Korean begingame_71b0a869:
 
     # n "While I wasn't sure which, his courage was applauded by others. After all, he couldn't possibly have known who or what would await him at the other end of the portal, and if he did meet someone there, who knew what kinds of intentions they might have?"
-    n "내가 그런 고민을 하고 있을 동안, 사람들은 그의 용기에 박수를 보냈다. 어찌됐거나, 건너편에 누가, 혹은 무엇이 그를 기다리고 있을 지 그는 알 수 없었을테고, 또 누군가를 만났다 하더라도 속에 어떤 흑심을 품고 있을 지는 아무도 모르는 것 아니겠는가?"
+    n "내가 그런 고민을 하고 있을 동안, 사람들은 그의 용기에 박수를 보냈다. 어찌됐거나 건너편에 누가, 혹은 무엇이 그를 기다리고 있을 지 그는 알 수 없었을테고, 또 누군가를 만났다 하더라도 속에 어떤 의도를 품고 있을 지는 아무도 모르는 것 아니겠는가?"
 
 # game/chapter1.rpy:451
 translate Korean begingame_11930bc6:
@@ -230,7 +230,7 @@ translate Korean begingame_82f1d7da:
     # nvl clear
     # n "When the day finally came, through he went, with applause echoing across the area - equipped only with the clothes he wore, his multi-tool, a gun and a device on his wrist that acted as a PDA."
     nvl clear
-    n "마침내 그 날이 오고, 그는 사람들의 박수 갈채 속에서, 그가 입은 옷 몇 벌과 맥가이버 칼, 권총 한 자루와 손목에 달 수 있는 PDA 장치만을 갖춘 채 포탈 속으로 들어갔다.{i}(PDA : 개인용 정보 단말기){/i}"
+    n "마침내 그 날이 오고, 그는 사람들의 박수 갈채 속에서 자신이 입은 옷 몇 벌과 맥가이버 칼, 권총 한 자루와 손목에 달 수 있는 PDA 장치만을 갖춘 채 포탈 속으로 들어갔다.{i}(PDA : 휴대용 정보 단말기){/i}"
 
 # game/chapter1.rpy:458
 translate Korean begingame_76b2fe88_2:
@@ -248,7 +248,7 @@ translate Korean begingame_02377e2f:
 translate Korean begingame_a929e4ad:
 
     # n "The crowd that was applauding him slowly dispersed when the enthusiasm died down, as there was nothing for us to do but wait and speculate."
-    n "그를 격려하던 사람들은, 그가 돌아오기 전까지 기다리고 그가 어떻게 되었을 지 추측하는 것 밖에 할 수 있는 일이 없었으므로, 열의가 사그라들자 서서히 흩어졌다."
+    n "그가 돌아오기 전까지는 기다리고 짐작하는 것 외에는 할 수 있는 게 없었으므로, 열의가 사그라들자 박수를 보내던 사람들은 서서히 흩어졌다."
 
 # game/chapter1.rpy:463
 translate Korean begingame_4e5d991b:
@@ -272,7 +272,7 @@ translate Korean begingame_2a8e54d7:
 translate Korean begingame_bb325a0f:
 
     # n "A very bad joke, maybe, with even worse timing and no punchline at all."
-    n "아마 농담이었다면, 아주 나쁜 농담이었겠지. 타이밍도 좋지 않았고, 펀치라인도 없었으니."
+    n "아마 농담이었다면, 아주 나쁜 농담이었겠지. 타이밍도 좋지 않았고, 유머 포인트도 없었으니."
 
 # game/chapter1.rpy:467
 translate Korean begingame_ac587ebf:
@@ -280,31 +280,31 @@ translate Korean begingame_ac587ebf:
     # nvl clear
     # n "It soon became clear to us, though, that we may just have made one of the most important discoveries since the dawn of mankind."
     nvl clear
-    n "그러나 곧 우리가 인류의 등장 이래로 가장 중요한 발견 중 하나를 이루어냈을 지도 모른다는 사실이 확실해져갔다."
+    n "그러나 곧 우리가 인류 역사상 가장 중요한 발견 중 하나를 이루어냈을 지도 모른다는 사실이 확실해져갔다."
 
 # game/chapter1.rpy:469
 translate Korean begingame_273be6cf:
 
     # n "Finding the portal had been remarkable in itself, but this took it to a completely different level."
-    n "포탈을 찾은 것 자체만으로도 놀라운 일이지만, 이는 곧 완전히 다른 차원의 문제로 나아갔다."
+    n "포탈을 찾은 것 자체만으로도 놀라운 일이지만, 이는 곧 완전히 다른 수준의 문제로 나아갔다."
 
 # game/chapter1.rpy:471
 translate Korean begingame_942d3fc8:
 
     # n "From what he described about the place - or, more accurately, its inhabitants - we surmised it could not be part of Earth at all."
-    n "장소에 대해 그가 한 설명, 아니, 정확히 말하자면 그 곳의 원주민에 대한 설명으로 미루어 보아, 그 곳이 지구가 아닐 수 있다고까지 추측할 수 밖에 없었다."
+    n "장소에 대해 그가 한 설명, 아니, 정확히 말하자면 그 곳의 원주민에 대한 설명으로 미루어 보아, 우리는 그 곳이 지구가 아닐 수 있다고까지 추측할 수 밖에 없었다."
 
 # game/chapter1.rpy:472
 translate Korean begingame_b4430af1:
 
     # n "We called them {i}dragons{/i}, because according to Reza, that's what they were, or at least what they resembled most."
-    n "우리는 그들을 {i}용{/i}이라고 불렀는데, 레자의 보고에 따르면 그들의 모습이 곧 용이거나, 혹은 용과 가장 유사하기 때문이다."
+    n "우리는 그들을 {i}용{/i}이라고 불렀는데, 레자의 보고에 따르면 실제로 그들이 용이거나, 적어도 가장 닮은 생물이기 때문이었다."
 
 # game/chapter1.rpy:473
 translate Korean begingame_73af8ba0:
 
     # n "Even though we found it hard to believe, it had been these dragons who sent us all the letters. And what Reza found on the other side of the portal was a whole civilization of them. They could talk, write books, had buildings and electricity. In many ways, their society was actually very similar to our own."
-    n "물론 믿기 힘들었지만, 우리에게 편지를 보내왔던 존재는 용이었던 것이다. 그보다 더 놀라운 것은 레자가 건너편에서 발견한 그들의 문명이었다. 그들은 말할 수 있었고, 책을 써 낼 수 있었으며, 건물과 전기 또한 있었다. 많은 방면에서 그들의 사회는 사실상 우리의 사회나 다름없었다."
+    n "물론 믿기 힘들었지만, 우리에게 편지를 보내왔던 존재는 용이었던 것이다. 그리고 레자가 포탈 건너편에서 발견한 것은 그들의 문명이었다. 그들은 말할 수 있었고, 책을 쓸 수 있었으며, 건물과 전기 또한 있었다. 많은 방면에서 그들의 사회는 우리의 사회와 매우 유사했다."
 
 # game/chapter1.rpy:474
 translate Korean begingame_6abe8d77:
@@ -318,7 +318,7 @@ translate Korean begingame_6abe8d77:
 translate Korean begingame_1020ae93:
 
     # n "Our speculations led us to conclude otherwise. After all, we knew about the existence of thousands of planets, millions of light-years away that may have been theoretically habitable, yet even then we had never found conclusive proof in regards to actual alien life-forms."
-    n "우리의 추측으론 결론을 내릴 수가 없었다. 말하자면, 우리는 이론적으로 거주할 수 있을 만한 수백만년 광년의 수천 개의 행성의 존재를 알고 있었지만, 실제로 그 곳에 외계 생명체가 살고있는 지에 대해서는 증거를 발견하지 못했다."
+    n "우리의 추측으론 결론을 내릴 수가 없었다. 어쨌든 우리는 이론적으로 생물이 살 수 있을 만한 수백만년 광년의 수천 개의 행성의 존재를 알고 있었지만, 실제로 그 곳에 외계 생명체가 살고있는 지에 대해서는 증거를 발견하지는 못했다."
 
 # game/chapter1.rpy:478
 translate Korean begingame_3ff6841f:
@@ -332,7 +332,7 @@ translate Korean begingame_94c45763:
     # nvl clear
     # n "I think there's just one more thing worth mentioning before I move on:"
     nvl clear
-    n "이제 다음으로 가기 전 하나만 짚고 넘어가자면:"
+    n "이제 계속 이야기하기 전 하나만 짚고 넘어가자면, "
 
 # game/chapter1.rpy:481
 translate Korean begingame_fe72b4b9:
@@ -356,7 +356,7 @@ translate Korean begingame_32508c0c:
 translate Korean begingame_26e2ea6a:
 
     # n "Reza apparently was sure of what he was doing, though, as he eventually let us know that they had agreed on a trade."
-    n "레자는 본인이 하는 행동에 확신이 선 것 처럼 보였다. 그들과 교류하기로 합의했다며 우리에게 보고했기 때문에."
+    n "그렇지만 레자는 본인이 하는 행동에 확신이 선 것 처럼 보였다. 그들과 교류하기로 합의했다며 우리에게 보고했기 때문에."
 
 # game/chapter1.rpy:486
 translate Korean begingame_32345ff9:
@@ -376,7 +376,7 @@ translate Korean begingame_23bd1b9f:
 translate Korean begingame_9422efc0:
 
     # n "Not only that, but evidently also quite efficient. We certainly would be able to put technology like that to good use, and trading mere past knowledge of the human race for something more... tangible... was a good call on his part."
-    n "그것 뿐만이 아니라, 꽤나 효율적이기도 했다. 우리는 그런 기술들을 유용하게 사용할 수 있을 것이고, 구세대 인류의 지식과 그런 확실한 기술과 교환한다는 것은 그에게 있어 좋은 제안이었을 것이다."
+    n "그뿐만 아니라, 꽤나 효율적이기도 했다. 우리는 그런 기술들을 유용하게 사용할 수 있을 것이고, 인류의 과거 지식과 그런 확실한 기술과 교환한다는 것은 그에게 있어 좋은 제안이었을 것이다."
 
 # game/chapter1.rpy:494
 translate Korean begingame_76b2fe88_3:
@@ -388,19 +388,19 @@ translate Korean begingame_76b2fe88_3:
 translate Korean begingame_c8829c2c:
 
     # n "That was where I came in."
-    n "그 때 내가 투입됐다."
+    n "그 때 내가 이야기에 등장한다."
 
 # game/chapter1.rpy:498
 translate Korean begingame_9cb37fb9:
 
     # n "My prior experience in both biology and sociology made me a good fit to deliver our PDA devices for the trade. And while in the dragons' world, waiting for the prototypes of our generators to be manufactured by them, I would act as an ambassador on humanity's behalf."
-    n "생물학과 사회학을 전공한 나는 거래에 필요한 PDA 장치들을 운반하기에 적합했다. 용들의 세계에서, 우리 발전기의 프로토타입이 만들어지는 동안, 나는 인류 모두를 대신하여 대사 역할을 하곤 했다."
+    n "생물학과 사회학을 전공한 나는 거래에 필요한 PDA 장치들을 운반하기에 적합했다. 용들의 세계에서, 우리 발전기의 프로토타입이 만들어지는 동안, 나는 인류를 대표하여 대사 역할을 하기로 했다."
 
 # game/chapter1.rpy:499
 translate Korean begingame_062d5b60:
 
     # n "What a way to make a first impression by a display of mutual goodwill. Everyone benefits and everyone goes home happy."
-    n "서로에게 선의로 대하며 첫 인상을 만들어나가는 묘수 아닌가. 모두가 이득을 보고 모두가 행복하게 집으로 돌아가리라."
+    n "상호 호의의 표시로 첫인상을 만들어나가는 묘수 아닌가. 모두가 이득을 보고 모두가 행복하게 집으로 돌아가리라."
 
 # game/chapter1.rpy:500
 translate Korean begingame_b084fb87:
@@ -412,7 +412,7 @@ translate Korean begingame_b084fb87:
 translate Korean begingame_fe0f2718:
 
     # n "At least, that was the plan."
-    n "그게 계획이었다. 적어도."
+    n "적어도, 계획은 그랬다."
 
 # game/chapter1.rpy:502
 translate Korean begingame_a1d738a9:
@@ -420,19 +420,19 @@ translate Korean begingame_a1d738a9:
     # nvl clear
     # n "Despite the images that living, talking dragons might conjure up in some people's minds, I didn't even think of bringing a weapon myself, considering that they were reportedly friendly and peaceful enough."
     nvl clear
-    n "살아서 말을 걸어오는 용이 누군가의 마음 속에선 위협적인 이미지였을 지도 모르겠지만, 그들은 충분히 친근하고 평화롭다고 보고받았기에, 어떠한 무기를 가지고 갈 생각조차 하지 않았다."
+    n "살아있는, 말하는 용이 누군가의 생각 속에선 위협적인 이미지였을 지도 모른다. 그렇지만 그들이 충분히 우호적이고 평화롭다고 보고받았기에, 나는 무기를 가지고 갈 생각조차 하지 않았다."
 
 # game/chapter1.rpy:504
 translate Korean begingame_01f41d60:
 
     # n "There was no need for me to fear potential ill intentions like Reza did when he had stepped into unknown territory, and acting as humanity's ambassador, I had to do my best to uphold a high standard in fostering this diplomatic relationship."
-    n "나는 레자가 미지의 영역에 발을 들였을 때처럼 닥치지도 않은 위협을 두려워할 필요는 없었으며, 인류의 대사 역할을 하면서, 높은 수준의 외교 관계를 유지시키기 위해 최선을 다해야만 했다."
+    n "나는 레자가 미지의 영토에 발을 들였을 때처럼 악의적인 의도를 두려워할 필요는 없었으며, 인류의 대사 역할을 하면서 높은 수준의 외교 관계를 유지시키기 위해 최선을 다해야만 했다."
 
 # game/chapter1.rpy:505
 translate Korean begingame_29ac0db6:
 
     # n "When the time came for me to step through the portal, all my mental preparedness vanished. My anxiousness was fueled by all the questions lurking in my head, just as the machine started to do its work."
-    n "내가 포탈에 발을 들였을 때, 내 그러한 각오는 사라져버렸다. 장치가 제 할 일을 시작하듯, 불안감은 내 머리 속의 기어다니는 의문들을 연료삼아 커져갔다."
+    n "내가 포탈로 이동할 때가 되자, 그러한 각오는 사라져버렸다. 장치가 제 할 일을 시작하듯, 불안감은 내 머리 속의 기어다니는 의문들을 연료삼아 커져갔다."
 
 # game/chapter1.rpy:506
 translate Korean begingame_608fb1d8:
@@ -440,7 +440,7 @@ translate Korean begingame_608fb1d8:
     # nvl clear
     # n "Would it hurt?"
     nvl clear
-    n "다치진 않을까?"
+    n "아프진 않을까?"
 
 # game/chapter1.rpy:509
 translate Korean begingame_1b21db5d:
@@ -452,19 +452,19 @@ translate Korean begingame_1b21db5d:
 translate Korean begingame_8b5b997c:
 
     # n "What if they really weren't so friendly and just made Reza write those letters, with the pretense of appearing friendly, only to lure us into the den of man-eating monsters and certain doom, with us ending up as nothing more than a tasty afternoon snack?"
-    n "만약 그들이 우호적이지 않았고, 그저 레자를 통해 우호적이게 보이는 척 하면서, 우리를 식인 괴물들과 그들이 사는 파멸의 소굴로 유인하게 한 것이라면, 우린 결국 맛있는 오후 간식에 불과하지 않을까?"
+    n "만약 그들이 우호적이지 않았고, 레자에게 그 편지들을 쓰게 만들었다면. 우호적으로 보이는 척하며, 우리를 식인 괴물들의 소굴과 피할 수 없는 파멸로 유인한 것이라면. 우린 결국 맛있는 오후 간식에 불과하지 않을까?"
 
 # game/chapter1.rpy:512
 translate Korean begingame_605c857b:
 
     # n "Maybe I should've brought a weapon after all..."
-    n "결국 무기를 가져왔어야 했는데..."
+    n "결국 무기를 가져왔어야 했는지도 몰라..."
 
 # game/chapter1.rpy:520
 translate Korean begingame_4ca759d4:
 
     # n "{cps=80}Suddenly, I felt a shiver coursing throughout my whole body and beyond when I disintegrated, as if every cell, every atom of my body was torn from me and pulled into a different direction.{/cps}{nw}"
-    n "{cps=80}그 순간, 온몸을 가로지르는 전율과 함께, 마치 내 세포 하나하나가, 내 몸의 원자 하나하나가 내게서 빠져나가 다른 방향으로 끌려나가는 듯 내가 분해되는 것이 느껴졌다.{/cps}{nw}"
+    n "{cps=80}갑자기 온몸을 가로지르는 전율과 함께, 마치 내 세포 하나하나가, 내 몸의 원자 하나하나가 내게서 빠져나가 다른 방향으로 끌려나가는 듯 내가 분해되는 것이 느껴졌다.{/cps}{nw}"
 
 # game/chapter1.rpy:598
 translate Korean begingame_76b2fe88_4:
@@ -476,7 +476,7 @@ translate Korean begingame_76b2fe88_4:
 translate Korean begingame_3ba6854d:
 
     # n "{cps=80}I saw darkness and light, painting patterns in the stars as I traveled, and images rapidly flashed before me of things unseen and unspoken.{/cps}{nw}"
-    n "{cps=80}내 눈 앞으로 어둠과 빛의, 내가 지나온 별들의 무늬의, 난생 처음보는 물체들의 이미지가 번쩍이듯 잔상처럼 빠르게 지나갔다.{/cps}{nw}"
+    n "{cps=80}내 눈 앞으로 어둠과 빛이, 내가 지나온 별들에 무늬를 만들었고, 난생 처음보는 물체들의 이미지가 번쩍이듯 잔상처럼 빠르게 지나갔다.{/cps}{nw}"
 
 # game/chapter1.rpy:609
 translate Korean begingame_0d6baf11:
@@ -500,13 +500,13 @@ translate Korean begingame_d079f0e6:
 translate Korean begingame_9ea6cf05:
 
     # n "I could only see a patch of lighter color contrasting with its dark surroundings as my vision started to clear. Its edges got sharper as the patch of light slowly took shape, giving me the distinguished outline of a reptilian head, and an array of horns spouting from it."
-    n "시야가 뚜렷해지면서 나는 어두운 환경과 대조되는 밝은 색의 형체만을 볼 수 있었다. 그 형체는 서서히, 그리고 선명하게 형태를 갖추어갔으며, 마침내는 파충류의 머리와 그로부터 솟아나온 뿔 한 쌍이 확실하게 보이기 시작했다."
+    n "시야가 뚜렷해지면서 나는 어두운 주변과 대조되는 밝은 색의 형체만을 볼 수 있었다. 그 형체는 서서히, 그리고 선명하게 형태를 갖추어갔으며, 마침내는 파충류의 머리와 그로부터 솟아나온 뿔 한 쌍이 확실하게 보이기 시작했다."
 
 # game/chapter1.rpy:639
 translate Korean holetravel_6a175cfd:
 
     # m "It was a dragon!{w=1.0}\nAnd as I could now see, a dragon who not only had a pair of round glasses, but also wore a burgundy tie around its neck."
-    m "진짜 용이잖아!{w=1.0}\n지금 보이듯, 둥근 안경을 썼을 뿐만 아니라, 목에 진홍색 넥타이까지 매고 있는 용이다."
+    m "진짜 용이잖아!{w=1.0}\n지금 보이듯, 둥근 안경을 썼을 뿐만 아니라, 목에 진홍색 넥타이까지 매고 있는 용이었다."
 
 # game/chapter1.rpy:640
 translate Korean holetravel_76b2fe88:
@@ -518,37 +518,37 @@ translate Korean holetravel_76b2fe88:
 translate Korean holetravel_7941b5bd:
 
     # Ry "In the name of our people, I bid you welcome. If I may introduce myself, I am Remy, your guide and ambassador - a representative of our council."
-    Ry "우리 국민들의 이름으로, 환영합니다. 제 소개를 드리지요. 저는 의회의 대표이자 당신의 가이드 겸 대표인 레미라고 합니다."
+    Ry "우리 국민들의 이름으로, 환영합니다. 제 소개를 드리지요. 저는 레미라고 합니다. 당신의 안내자 겸 대사이자, 저희 의회의 대표이지요."
 
 # game/chapter1.rpy:664
 translate Korean holetravel_b40dd6f0:
 
     # m "The dragon spoke! It was one thing to have heard and read about this, but something else entirely to have one standing in front of me, in flesh and blood... and tongue. It was good that all my mental preparedness had disappeared when I was teleported, because nothing could have prepared me for this."
-    m "용이 말하잖아! 놀랄 것이라곤 예상하긴 했지만, 직접 이 살, 피, 그리고 혀가 있는 생명체를 마주하자니... 이동 전 마음의 준비가 사라져버렸던 게 차라리 다행이란 생각이 들었다. 그 어떤 준비를 했었더라도, 이에 대해 대비를 할 수는 없었기에."
+    m "용이 말하잖아! 보고받기는 했지만, 직접 이 살, 피, 그리고 혀...가 있는 생명체를 마주하는 것은 전적으로 다른 일이였다. 이동 전 마음의 준비가 사라져버렸던 게 차라리 다행이란 생각이 들었다. 그 어떤 준비를 했었더라도, 이에 대해 대비를 할 수는 없었기에."
 
 # game/chapter1.rpy:665
 translate Korean holetravel_5c6fb2e0:
 
     # Ry "Sorry, I imagine you might still feel the effects of the teleportation. Drowsiness or weakness is not unusual, as is fainting and spontaneous emptying of your bowels, bladder or stomach. How do you feel?"
-    Ry "실례합니다만, 아직도 순간이동의 영향을 받고 계신 것 같군요. 졸음이나 무기력함이 느껴지는 건 부자연스러운 현상이 아닙니다. 마치 속이 아프면 게워내야만하는 것 처럼요. 지금은 어떠십니까?"
+    Ry "실례합니다만, 아직도 순간이동의 영향을 받고 계신 것 같군요. 졸음이나 무기력함이 느껴지는 건 부자연스러운 현상이 아닙니다. 마치 속이 아프면 게워내야만 하는 것 처럼요. 몸 상태가 어떠십니까?"
 
 # game/chapter1.rpy:666
 translate Korean holetravel_b43650b7:
 
     # m "Rendered speechless, I had totally forgotten that I was shouldering the burden of representing my people to them as well. So much for being professional, but at least he gave me a good excuse for my blunder."
-    m "말문이 막혀버렸다. 나는 내가 우리 세계의 사람들을 대표하고 있다는 사명감을 완전히 잊고있었다. 능숙하게 행동해야 했지만, 그는 내 실수에 대해 좋은 변명을 해줬다."
+    m "말문이 막혀버렸다. 나는 내가 인류를 대표하고 있다는 과업을 완전히 잊고 있었다. 프로답게 행동하는 것은 물건너갔지만, 그는 내 실수에 대해 좋은 변명을 해주었다."
 
 # game/chapter1.rpy:667
 translate Korean holetravel_883eb98b:
 
     # c "I... think I'm alright."
-    c "이...제 괜찮아진 것 같습니다."
+    c "괘...괜찮은 것 같습니다."
 
 # game/chapter1.rpy:669
 translate Korean holetravel_1b80444e:
 
     # Ry "Well, I'm glad to hear that."
-    Ry "다행이군요."
+    Ry "음, 다행이군요."
 
 # game/chapter1.rpy:671
 translate Korean holetravel_a3fad319:
@@ -560,25 +560,25 @@ translate Korean holetravel_a3fad319:
 translate Korean holetravel_91c5ac30:
 
     # m "So I followed the dragon, not straying too far from him, as the sun had already departed for the day and the remaining light diminished by the minute."
-    m "그래서 난 그 용을 따라갔다. 날이 저물고, 주변을 밝게 비추던 빛은 서서히 줄어들고 있었기 때문에, 너무 멀리 떨어지지는 않았다."
+    m "그래서 난 그 용을 따라갔다. 날이 저물고 주변을 밝게 비추던 빛은 서서히 줄어들고 있었기 때문에, 너무 멀리 떨어지지는 않았다."
 
 # game/chapter1.rpy:678
 translate Korean holetravel_98cf1cad:
 
     # c "It is getting hard to see where I'm going..."
-    c "점점 어디로 가는 건지 알 수 없게 되고 있어..."
+    c "점점 어디로 가는 건지 알 수 없는걸..."
 
 # game/chapter1.rpy:682
 translate Korean holetravel_aeb0c88e:
 
     # Ry "Sorry about that, but we had a good reason to schedule your arrival like this. We did not want you to be ambushed by a crowd, so we had to keep your exact time and date of arrival secret."
-    Ry "아, 죄송합니다. 당신의 도착 일정을 이렇게 잡을 수 밖에 없었습니다. 혹시라도 사람들이 당신을 공격하진 않을까 싶어, 모든 일정을 비밀리에 결정해야 했습니다."
+    Ry "아, 죄송합니다. 당신의 도착 일정을 이렇게 잡을 수 밖에 없었습니다. 혹시라도 사람들이 당신에게 몰려들진 않을까 싶어, 도착 일정을 비밀로 해야했습니다."
 
 # game/chapter1.rpy:683
 translate Korean holetravel_b1ea774c:
 
     # c "Thanks. I suppose an event like this would make me a celebrity of sorts. It would be the same if one of you came to us."
-    c "감사합니다. 공개적으로 진행했다간 제가 유명 인사가 되었겠지요. 여러분들 중 한 분이 오셨어도 마찬가지였을겁니다."
+    c "감사합니다. 공개적으로 진행했다간 제가 유명 인사가 되었겠지요. 여러분들 중 한 분이 저희 쪽에 오셨어도 마찬가지였을 겁니다."
 
 # game/chapter1.rpy:684
 translate Korean holetravel_a75b3c45:
@@ -596,31 +596,31 @@ translate Korean holetravel_73aa25c3:
 translate Korean holetravel_437d1607:
 
     # Ry "We do have certain myths that involve humans and as such... Oh, I suppose the history lesson will have to wait for another time. Here we are."
-    Ry "우리도 인간의 진화와 관련된 신화를 가지고 있답니다. 예를 들자면... 아, 역사 시간은 다음에 가지는 게 좋겠군요. 도착했습니다."
+    Ry "저희도 인간과 관련된 신화를 가지고 있답니다. 예를 들자면... 아, 역사 수업은 다음에 하는 게 좋겠군요. 도착했습니다."
 
 # game/chapter1.rpy:695
 translate Korean holetravel_6e0c5972:
 
     # m "By this point, it had gotten so dark that I could barely make out the building before us. I briefly wondered whether they might have street lights elsewhere, or if they just did not require any due to possible enhanced eyesight or night vision."
-    m "이 쯤 되니, 날이 너무 어두워져, 난 내 앞에 있는 건물만을 볼 수 있게 되었다. 다른 곳에 따로 가로등이 있는지, 아니면 단순히 이들의 밤눈이 밝은 것인지 시력이 좋은 것인지 잠시 고민했다."
+    m "이 쯤 되니 날이 너무 어두워져, 내 앞에 있는 건물만 겨우 알아볼 수 있었다. 나는 다른 곳에는 가로등이 있는지, 아니면 단순히 이들의 시력이 좋거나 밤눈이 밝은 것인지 잠시 고민했다."
 
 # game/chapter1.rpy:696
 translate Korean holetravel_4bcd03cc:
 
     # m "I could vaguely see the dragon, his light colors still visible within the blackness that engulfed the area, rear up and manipulate the door handle with one of his forepaws."
-    m "나는 주변을 집어삼킨 어둠 속에서 밝은 색을 띄고 있는 그를 겨우 볼 수 있었다. 그는, 앞발로 문 손잡이를 잡아 문을 열었다."
+    m "나는 주변을 집어삼킨 어둠 속에서 밝은 색을 띄고 있는 그를 겨우 볼 수 있었다. 그는 앞발로 문 손잡이를 잡아 문을 열었다."
 
 # game/chapter1.rpy:709
 translate Korean holetravel_f97397b2:
 
     # m "Hinges creaking, the door opened, and with the flick of a switch, the apartment was flooded with light, blinding me after all the time we had just spent without it."
-    m "경첩이 삐꺽거리고, 문이 열렸다. 스위치가 딸깍이는 소리와 함께 아파트 내부는 밝아지기 시작했고, 한동안 어둠 속에 있었던 나는 갑작스러운 빛에 눈이 부셨다."
+    m "경첩이 삐걱거리고, 문이 열렸다. 스위치가 딸깍이는 소리와 함께 아파트 내부가 빛으로 차올라, 한동안 어둠 속에 있었던 나는 갑작스러운 빛에 눈이 부셨다."
 
 # game/chapter1.rpy:713
 translate Korean holetravel_7c536461:
 
     # Ry "This is where you will live for the time being. It is fully stocked, but in case you need anything else, I left you a note with a few phone numbers."
-    Ry "여기가 당신이 잠시 묵게 될 곳입니다. 웬만한 건 다 준비해두긴 했지만, 만일 필요하신 게 있으시다면, 여기 전화번호를 남겨둘테니 연락해주세요."
+    Ry "여기가 당신이 당분간 묵게 될 곳입니다. 웬만한 건 다 준비해두긴 했지만 만일 필요하신 게 있으시다면, 여기 전화번호를 남겨둘테니 연락해주세요."
 
 # game/chapter1.rpy:714
 translate Korean holetravel_e590ac89:
@@ -638,25 +638,25 @@ translate Korean holetravel_a1bc0095:
 translate Korean holetravel_acc659e8:
 
     # Ry "Until we meet again."
-    Ry "다시 뵙죠."
+    Ry "다시 뵙겠습니다."
 
 # game/chapter1.rpy:727
 translate Korean holetravel_7ce680cd:
 
     # n "With a nod, Remy left the apartment, mindful enough to close the door behind himself. Surveying the room, I considered the events that had just transpired as my gaze met the window."
-    n "레미는 고개를 끄덕이며 문 밖으로 나가, 문이 닫힐 만큼 자기 뒤로 공간을 남겨두고는, 문을 다시 닫았다. 방을 둘러보다 문득 창 밖을 보게되었고, 내게 무슨 일이 일어난 건지 정리하기 시작했다."
+    n "레미는 고개를 끄덕이며 떠났고, 등뒤로 문을 닫는 것 또한 잊지 않았다. 방을 둘러보다 문득 창 밖을 보게 되었고, 무슨 일이 일어난건지 생각해보았다."
 
 # game/chapter1.rpy:728
 translate Korean holetravel_0066f440:
 
     # n "I could see movement outside, and as I drew nearer, startled, I could hear footsteps in the grass, moving away quickly. Assuming it must have been the dragon I just met, I thought nothing of it as I went to bed and slowly succumbed to the sweet allure of sleep overdue."
-    n "바깥에 무언가의 움직임이 보여, 깜짝 놀라고 가까이 다가갔지만, 빠르게 풀을 밟는 소리와 함께 멀어져버렸다. 방금 만났던 그 용이 틀림없다고 생각하며, 더 이상 신경쓰지 않고 침대에 누워, 오늘 하루동안 쌓인 피로의 달콤한 유혹에 몸을 맡겼다."
+    n "바깥에 무언가의 움직임이 보여 깜짝 놀라 다가갔지만, 빠르게 풀을 밟는 소리와 함께 멀어져버렸다. 방금 만났던 용이겠거니 싶어, 더 이상 신경쓰지 않고 침대에 누워 오늘 하루동안 쌓인 피로의 달콤한 유혹에 몸을 맡겼다."
 
 # game/chapter1.rpy:733
 translate Korean holetravel_344cc935:
 
     # n "I spent a few moments thinking about my role, my mission and what it meant to be here now."
-    n "나는 누운 채로 잠시동안 내 역할과, 내 사명과, 그리고 내가 여기있는다는 게 무엇을 의미하는 건지에 대해 생각했다."
+    n "나는 누운 채로 잠시동안 내 역할과 임무, 그리고 그것이 지금 여기서 무슨 의미를 지니는지 고민했다."
 
 # game/chapter1.rpy:740
 translate Korean holetravel_76b2fe88_1:
@@ -668,13 +668,13 @@ translate Korean holetravel_76b2fe88_1:
 translate Korean holetravel_49a3a932:
 
     # n "Now here I was, a stranger in a strange land, as I only began to feel the weight of the burden that lay upon me, the pressure of my task and the expectations I would have to meet in representing a species, culture and civilization."
-    n "이제 나는 낯선 땅에 발을 들인 낯선 이나 다름없다. 내게 주어진 짐의 무게와 과업의 압박감, 그리고 종, 문화, 문명을 대표해야한다는 걱정이 느껴지기 시작했다."
+    n "이제 나는 낯선 땅에 발을 들인 낯선 이나 다름없다. 내게 주어진 짐의 무게와 과업의 압박감, 그리고 우리의 종, 문화, 문명을 대표해야한다는 걱정이 느껴지기 시작했다."
 
 # game/chapter1.rpy:744
 translate Korean holetravel_d92940c8:
 
     # n "So many would depend on it, yet I did not even know where the only human contact I had currently was."
-    n "대부분의 사람들은 당연하다는 듯 누리겠지만, 나는 나같은 인간과의 접촉이 언제가 될 지 기약조차 할 수도 없게 됐다."
+    n "많은 사람들이 그것에 의지하고 있겠지만, 나는 나같은 인간과의 접촉이 언제가 될 지 기약조차 할 수도 없게 됐다."
 
 # game/chapter1.rpy:745
 translate Korean holetravel_75a177a0:
@@ -694,13 +694,13 @@ translate Korean holetravel_76b2fe88_2:
 translate Korean holetravel_2b565a45:
 
     # n "So many possibilities and prospects raced through my mind. Truth be told, the thought of being able to meet an entirely new species and civilization excited me. As I was going to be one of the first to truly experience their society with its own little quirks, differences and similarities, I couldn't help but feel like some sort of modern Vasco da Gama or Marco Polo."
-    n "너무나 많은 가능성과 전망들이 내 머리속을 맴돌았다. 사실, 완전히 새로운 종과 색다른 종을 만난다는 사실 그 자체가 나를 흥분시켰다. 우리와 비슷하지만, 그들만의 특색이 담겨 있는 문화를 경험한 최초의 인간은 내가 될 예정이었기 때문에, 난 현대의 바스 다가마 내지는 마르코 폴로가 된 기분이었다."
+    n "너무나 많은 가능성과 전망들이 내 머리속을 맴돌았다. 솔직히 말하자면, 완전히 새로운 종과 문명을 만난다는 사실 그 자체가 나를 흥분시켰다. 우리와 비슷하지만, 그들만의 특색이 담겨 있는 문화를 경험한 최초의 인간이 될 예정이었기 때문에, 난 현대의 바스코 다가마 내지는 마르코 폴로가 된 기분이었다."
 
 # game/chapter1.rpy:756
 translate Korean holetravel_8355d8c5:
 
     # n "Maybe I would even write a book about the whole experience after it's all over. I was sure it would become a hit, all things considered."
-    n "어쩌면 난 이 모든 일들이 끝난 후에 책을 써내려갈지도 모른다. 뭘 어떻게 생각하더라도, 그 책은 반드시 베스트 셀러가 될 수 밖에 없겠지."
+    n "어쩌면 난 이 모든 일들이 끝난 후에 겪었던 일들에 대한 책까지 쓸 것 같다. 뭘 어떻게 생각하더라도, 그 책은 반드시 베스트 셀러가 될 수 밖에 없겠지."
 
 # game/chapter1.rpy:757
 translate Korean holetravel_ed81ce8a:
@@ -708,7 +708,7 @@ translate Korean holetravel_ed81ce8a:
     # nvl clear
     # n "At any rate, this was going to be fun."
     nvl clear
-    n "아무튼, 이건 굉장히 재밌어질 것 같다."
+    n "아무튼, 이건 굉장히 재미있을 것 같았다."
 
 # game/chapter1.rpy:809
 translate Korean skipintro_4ceaddf2:
